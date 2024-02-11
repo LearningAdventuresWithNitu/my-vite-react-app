@@ -2,6 +2,10 @@
   
 `npm run dev`
 
+## Rendered view
+
+![alt text](./src/assets/Screenshot%202024-02-10%20153306.png)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

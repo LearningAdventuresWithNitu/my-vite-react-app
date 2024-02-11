@@ -1,11 +1,9 @@
 import './App.css'
-import MyComponent from './components/MyComponent'
+import Todo from './components/todo/Todo'
 
 function App() {
   return (
-    <>
-      <MyComponent />
-    </>
+    <Todo />
   )
 }
 
